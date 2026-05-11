@@ -2,12 +2,6 @@
 
 Front-end web do VetCarePro, uma plataforma para gestão de clínicas veterinárias com foco em operação diária: atendimento, agenda, cadastro, equipe, finanças e vendas.
 
-## Desenvolvedor do front-end
-
-Este front-end foi desenvolvido por **Pedro Souza**.
-
-- [Pedro Souza](https://github.com/iShouldz)
-
 ## Qualidade de código
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/744123118cf94c6c83aac3491a6dc8df)](https://app.codacy.com/gh/iShouldz/toDeploy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
@@ -104,11 +98,6 @@ O VetCarePro organiza o fluxo da clínica em módulos conectados:
 - EmailJS para envio de e-mail em fluxo de cadastro.
 - Links externos de LinkedIn/GitHub na página de time.
 
-## Internacionalização
-
-- A interface está predominantemente em **português**.
-- Não há, no estado atual, um mecanismo completo de troca de idioma em runtime.
-
 ## Requisitos e execução
 
 - Node.js 20+
@@ -125,16 +114,3 @@ npm run dev
 - `npm run lint` — validação estática com ESLint
 - `npm run build` — build de produção
 
-## Convenção de commits
-
-- `feat` — novas funcionalidades
-- `fix` — correções de bug
-- `refactor` — refatorações sem mudança de comportamento final
-- `chore` — tarefas internas e manutenção
-- `docs` — documentação
-- `perf` — melhorias de performance
-- `style` — ajustes de estilo/formatação
-- `test` — testes
-- `build` — build/dependências
-- `ci` — integração contínua
-- `env` — configurações de ambiente/infra
