@@ -2,9 +2,11 @@
 
 Front-end web do VetCarePro, uma plataforma para gestão de clínicas veterinárias com foco em operação diária: atendimento, agenda, cadastro, equipe, finanças e vendas.
 
-## Integrantes
+## Desenvolvedor do front-end
 
-[Weverton Cintra](https://github.com/WevertonCintra) | [Pedro Souza](https://github.com/iShouldz) | [Luiz Fellipe](https://github.com/Luizfdarb) | [Lucas Romeiro](https://github.com/lucas-romeiro) | [Romário Abílio](https://github.com/romarioabilio)
+Este front-end foi desenvolvido por **Pedro Souza**.
+
+- [Pedro Souza](https://github.com/iShouldz)
 
 ## Qualidade de código
 
